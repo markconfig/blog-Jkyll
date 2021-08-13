@@ -1,0 +1,11 @@
+Cómo añadir imágenes
+
+Para añadir imágenes en tus artículos, simplemente ve a la carpeta de images en el repositorio, y arrastra la imagen desde tu escritorio sobre la carpeta. 
+Haz commit changes para que finalice la subida. Ahora, en tu entrada, necesitas enlazar a la imagen.
+
+![un gatito]({{ site.baseurl }}/images/kitten.jpg)
+
+Como ves, se pueden utilizar las cadenas en el yml de configuración poniéndolo entre dobles llaves. 
+Así podemos usar la url base de nuestro proyecto en vez de tener que escribirlo entero. 
+Esto hará, por otro lado, que no lo puedas ver en la preview, así que tendrás que fiarte.
+
