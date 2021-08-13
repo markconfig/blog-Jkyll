@@ -4,7 +4,8 @@ title: La debilidad y defecto
 ---
 
 
-**#Debilidad y defecto**
+**Debilidad y defecto**
+
 Hoy en este día vengo a dejar un párrafo del libro de Diego Ruzzarin titulado “incongruencias pseudointelectuales”, que a mí particularmente, considero que es una verdad para la mayoría de nosotros.
 
 
