@@ -3,9 +3,7 @@ layout: post
 title: No se que está pasando
 ---
 
-**¿Cuál es el problema de todo?**
-
-*No se cómo empezar, creo que primero tengo que plasmar el contexto, un contexto algo extenso.*
+**¿Cuál es el problema de todo?**, *No se cómo empezar, creo que primero tengo que plasmar el contexto, un contexto algo extenso.*
 
 ¡No! Mejor no, vamos al punto. **Empezando a qué no hay nada lógico, así que desde aquí aviso de ello, nada cuadra, creo que es como debe de ser, si todo tuviera sentido, la vida sería fácil.**
 
@@ -19,6 +17,4 @@ Como se pudo ver, este texto no tiene pies ni cabeza, ese es el sentimiento que 
 En fin, espero en día posteriores poder estructura mejor mis ideas y pendientes para que puedan ser plasmados de una mejor manera en un texto
 
 
->¡Dejó un gatito por aquí!
-
-![alt text](https://www.hogarmania.com/archivos/201801/mascotas-gatos-tristeza-apatia-XxXx80.jpg"Logo Title Text 1")
+>Duerman bien, coman bien, y no se olviden que alguien piensa que eres especial.
