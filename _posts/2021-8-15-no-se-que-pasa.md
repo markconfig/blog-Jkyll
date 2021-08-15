@@ -21,5 +21,4 @@ En fin, espero en día posteriores poder estructura mejor mis ideas y pendientes
 
 >¡Dejó un gatito por aquí!
 
-
-[Logo]: https://www.hogarmania.com/archivos/201801/mascotas-gatos-tristeza-apatia-XxXx80.jpg
+![alt text](https://www.hogarmania.com/archivos/201801/mascotas-gatos-tristeza-apatia-XxXx80.jpg"Logo Title Text 1")
