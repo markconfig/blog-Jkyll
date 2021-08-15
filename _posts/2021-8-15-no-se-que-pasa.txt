@@ -1,7 +1,6 @@
----
-layout: post*
+
+layout: post
 title: No se que está pasando
----
 
 **¿Cuál es el problema de todo?**, *No se cómo empezar, creo que primero tengo que plasmar el contexto, un contexto algo extenso.*
 
