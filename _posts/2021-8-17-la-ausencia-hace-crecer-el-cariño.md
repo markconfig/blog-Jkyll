@@ -18,3 +18,8 @@ Somos individuos sociales, por eso esa relación del hecho de que no podemos est
 En este caso puse ejemplo a la familia, pero como dije, pueden ser aplicado a lo que sea, a una relación amorosa, para amigos, compañeros de escuela, mascotas, la comida, etc. 
 
 >Yo diría que siempre traten de valorar a las cosas y personas que tengas más cercanas algún día no podrán estar ahí, y no será fácil superarlo, solo podremos superarlo con los recuerdos y vivencias que permitimos hacer posible.
+
+
+
+ [https://www.pexels.com/es-es/foto/mujer-mirando-a-traves-de-una-ventana-307915/](https://www.pexels.com/es-es/foto/mujer-mirando-a-traves-de-una-ventana-307915/ "Foto de Kaique Rocha en Pexels")
+ 
