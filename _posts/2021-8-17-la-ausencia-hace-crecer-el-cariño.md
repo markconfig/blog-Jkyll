@@ -22,5 +22,4 @@ En este caso puse ejemplo a la familia, pero como dije, pueden ser aplicado a lo
 
 
 
-[https://www.pexels.com/es-es/foto/mujer-mirando-a-traves-de-una-ventana-307915/](Foto de Kaique Rocha en Pexels "Foto de Kaique Rocha en Pexels")
- 
+ [Foto de Kaique Rocha en Pexels](https://www.pexels.com/es-es/foto/mujer-mirando-a-traves-de-una-ventana-307915/ "Foto de Kaique Rocha en Pexels")
