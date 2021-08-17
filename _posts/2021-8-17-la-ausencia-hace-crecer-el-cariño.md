@@ -16,34 +16,7 @@ Cuando no estamos cerca de nuestros seres queridos, las extrañamos, pensamos en
 Here's our logo (hover to see the title text):
 
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-
-
-
-
-
-
-
-
-
-
-
-
-
-Here's our logo (hover to see the title text):
-
-Inline-style: 
-![alt text]( https://github.com/blog-markreyes77/blog-markreyes77.github.io/blob/138018210e0da761ed57eeaa72b3bf0881502ef2/_posts/Images/pexels-kaique-rocha-307915.jpg " Logo Title Text 1")
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/blog-markreyes77/blog-markreyes77.github.io/blob/138018210e0da761ed57eeaa72b3bf0881502ef2/_posts/Images/pexels-kaique-rocha-307915.jpg "Logo Title Text 2"
+![alt text](https://github.com/blog-markreyes77/blog-markreyes77.github.io/blob/472efb36040a58c892e95603356fdb0cb3de830c/_posts/Images/pexels-kaique-rocha-307915.jpg "Picture 1")
 
 
 Somos individuos sociales, por eso esa relación del hecho de que no podemos estar completamente solos y de que tomar distancia con alguien o algo (en este caso solo mencioné como ejemplo la familia), nos hace sensibilizar y reforzar nuestro cariño hacia ellos.
