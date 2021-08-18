@@ -10,6 +10,8 @@ title: No se que está pasando
 ¿Qué esperar de la vida? Todo es tan subjetivo que para analizar caso por caso no podríamos culminar, creo que, jamás. 
 Algunos quieren ser guapos, tener bonito cabello, tener el reconocimiento de las personas... Etc. 
 
+![Desconocer]({{ site.baseurl }}/images/desconocer.jpg)
+
 **¿Yo que quiero?** No lo sé, no se que futuro tengas las personas como yo, difíciles de entender a los demás y de que que los demásle entiendan. Yo creo que no hay nada.
 
 Como se pudo ver, este texto no tiene pies ni cabeza, ese es el sentimiento que cruza en mi cabeza, ¿En qué pensar?, ¿Qué es más importante?, ¿Pensar en que comer hoy, o pensar en porque no le agradas a las personas?
