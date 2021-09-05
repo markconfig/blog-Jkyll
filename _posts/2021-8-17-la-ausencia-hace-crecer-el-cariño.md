@@ -11,7 +11,7 @@ Cuando hacemos participes de una familia, todos tenemos una función en ella, as
 
 **¿Que pasa cuando decidimos independizarnos, o por ciertas razones tenemos que separarnos de nuestra familia?**
 
-Cuando no estamos cerca de nuestros seres queridos, las extrañamos, pensamos en ellos, hasta  las peleas que tuvimos con ellos, las recordamos con extremo cariño. Cuando las volvemos a ver, las abrazamos lo más fuerte que podemos, platicamos horas de como nos ha ido en la vida, en ciertas circunstancias en las que ella no pidieron estar presentes. 
+Cuando no estamos cerca de nuestros seres queridos, los extrañamos, los pensamos, hasta  las peleas que tuvimos con ellos, las recordamos con extremo cariño. Cuando las volvemos a ver, las abrazamos lo más fuerte que podemos, platicamos horas de como nos ha ido en la vida, en ciertas circunstancias en las que ella no pidieron estar presentes. 
 
 ![Soledad]({{ site.baseurl }}/images/soledad.jpg)
 
