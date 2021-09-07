@@ -31,9 +31,6 @@ Volví al cuarto con mi mamá, le di un gran abrazo y con palabras sinceras de m
 
 [Foto de Quang Nguyen Vinh en Pexels](https://www.pexels.com/es-es/foto/gallina-marron-y-negra-con-pio-de-pollito-al-aire-libre-2134246/ "Foto de Quang Nguyen Vinh en Pexels")
 
-##Comparte en Facebook
 
-[Comparte en Facebook](https://www.facebook.com/sharer/sharer.php?u=https://blog-markreyes77.github.io/Te-Amo-Mama "Comparte en Facebook 2")
-
-##Comparte en Twitter 
-[Comparte en Twitter](https://twitter.com/?status= Dale una leída a esto: https://blog-markreyes77.github.io/Te-Amo-Mama "Comparte en Twitter")
+## [Comparte en Facebook](https://www.facebook.com/sharer/sharer.php?u=https://blog-markreyes77.github.io/Te-Amo-Mama "Comparte en Facebook 2")
+## [Comparte en Twitter](https://twitter.com/?status= Dale una leída a esto: https://blog-markreyes77.github.io/Te-Amo-Mama "Comparte en Twitter")
