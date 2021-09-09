@@ -5,7 +5,7 @@ title: Siempre juntos o juntos por siempre
 
 ***¿En algún momento de sus vidas juraron amor para toda la eternidad?*** ***¿Les ha pasado alguna vez esto?***
 
-Yo podría asegur que si lo han hecho, aunque tal vez sin reflexionar tanto en esto. Pero es normal, en las primeras etapas del enamoramiento de una relación, nos dejamos llevar por el deseo del otro y el amor que queremos recibir. 
+Yo podría asegurar que si lo han hecho, aunque tal vez sin reflexionar tanto en esto. Pero es normal, en las primeras etapas del enamoramiento de una relación, nos dejamos llevar por el deseo del otro y el amor que queremos recibir. 
 
 Estas palabras, que en algún momento decimos en alguna etapa de la vida y de la relación misma, deberíamos de considerarlas como un "mientras dure".
 
