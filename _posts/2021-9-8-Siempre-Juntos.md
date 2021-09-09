@@ -31,7 +31,7 @@ Y
 
 >No tengas prisa de olvidar a quien amaste, mejor siéntete orgulloso de haber sentido amor.
 
-*** Ambas frases desconozco el autor
+***Ambas frases desconozco el autor***
 
 Agradecer porque gracias a esas relaciones, muchas, pocas o en ocasiones increíblemente la única,  obtuviste experiencias y probablemente descubriste conductas de la otra persona o de ti misma que no aportaban a un "juntos por siempre" o viceversa, y lo principal que mecionan, es que te diste la oportunidad de sentir amor, ese sentimiento que muchos hablan pero ignoran de que aun haciendo cosas felices del amor, también existen cosas tristes.
 
