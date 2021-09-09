@@ -2,18 +2,17 @@
 layout: post
 title: Siempre juntos o juntos por siempre 
 ---
-¿Les ha pasado alguna vez esto? Acerca de que, ¿En algún momento de sus vidas juraron amor para toda la eternidad?
+*¿En algún momento de sus vidas juraron amor para toda la eternidad?* *¿Les ha pasado alguna vez esto?*
 
-Yo sé que si lo han hecho, sin reflexionar tanto en esto. Pero es normal, en las primeras etapas del enamoramiento de una relación, nos dejamos llevar por el deseo del otro y el amor que queremos recibir....
-
+Yo podría asegura que si lo han hecho, aunque tal vez sin reflexionar tanto en esto. Pero es normal, en las primeras etapas del enamoramiento de una relación, nos dejamos llevar por el deseo del otro y el amor que queremos recibir. 
 
 Estas palabras, que en algún momento decimos en alguna etapa de la vida y de la relación misma, deberíamos de considerarlas como un "mientras dure".
 
 Un "juntos por siempre", "siempre a tu lado", "juntos toda la vida/eternidad", solo abarca el tiempo que la relación dure; unos días, un par de meses, un par de años, 80 años, incluso sin límite y con esto me refiero que uno o ambos dejan de existir en vida. No más, y se que has tenido relaciones en las que llegado a esta misma conclusión, saber que por más que quieras que algo dure por muchísimos años, no sabes si eso va a durar lo que quieres, hay tantas variables en las que, con el simple hecho de que un par de ellos no la sepas asimilar o no la sepan manejar, la otra persona y tú, puede llegar a derrumbar lo que juntos han construido por poco o mucho tiempo.
 
-Por tal razón, no te enojes cuando alguien te dice que quiere pasar toda la vida contigo o quiere un "Juntos por siempre", se que esa persona lo dice con la mejor intención del mundo, porque el deseo de tenerte en su vida e idealización de ustedes como pareja  en un futuro duradero hace que en realidad así lo quiera.
+Por tal razón, no te enojes cuando alguien te promete y te hablaba sobre que quiere pasar toda la vida contigo o quiere un "Juntos por siempre", se que esa persona lo dice con la mejor intención del mundo, porque el deseo de tenerte en su vida e idealización de ustedes como pareja  en un futuro duradero, hace que en realidad así lo quiera.
 
-Estar consientes de todo esto no es fácil, pero no por eso no te vas a permitir dar todo por alguien, quizás tengas muchas relaciones amorosas, en donde encuentres amor, cuidado, valoración, seguridad, deseo, cariño etc. Así como también dolor, sufrimiento, ansiedad, estrés, cotidianidad etc. El hecho de que sepas que duela, no es pretexto para que no te esfuerces, puede que tome una sola relación o incluso varias, como sea el caso, aprenderás que la buena comunicación de lo que sientes y piensas así como de la comprensión de la otra persona hace que sea una base para que ese "juntos por siempre" dure lo que muchos años.
+Estar consientes de todo esto no es fácil, pero no por eso no te vas a permitir dar todo por alguien, quizás tengas muchas relaciones amorosas, en donde encuentres amor, cuidado, valoración, seguridad, deseo, cariño etc. Así como también dolor, sufrimiento, ansiedad, estrés, cotidianidad etc. El hecho de que sepas que duela, no es pretexto para que no te esfuerces, puede que tome una sola relación o incluso varias, como sea el caso, aprenderás que la buena comunicación de lo que sientes y piensas así como de la comprensión de la otra persona hace de una sólida base para que ese "juntos por siempre" dure lo que muchos años.
 
 
 ![JuntosPorSiempre]({{ site.baseurl }}/images/JuntosPorSiempre.jpg)
@@ -21,7 +20,9 @@ Estar consientes de todo esto no es fácil, pero no por eso no te vas a permitir
 
 ## Todo es subjetivo 
 
-Todo lo que digo aquí es ideas mías, construidas por vivencias y/o experiencias y considerando que el deseo es el deseo del otro, y si nos metiéramos al caso por caso encontraríamos tantas cosas que influyen en las relaciones de las personas para que puedan desarrollar o sabotear su "Juntos por siempre".
+Todo lo que digo aquí es ideas propias, construidas por vivencias y/o experiencias y considerando que el deseo es el deseo del otro, y si nos metiéramos al caso por caso encontraríamos tantas cosas que influyen en las relaciones de las personas para que puedan desarrollar o sabotear su "Juntos por siempre".
+
+Me gustaría dejarte dos grandes frases: 
 
 >El simple hecho de permitirte amar y ser amado es algo que debes agradecer.
 
@@ -29,16 +30,14 @@ Y
 
 >No tengas prisa de olvidar a quien amaste, mejor siéntete orgulloso de haber sentido amor.
 
-***Ambas frases desconozco el autor
+*** Ambas frases desconozco el autor
 
-Agradecer porque gracias a esas relaciones, muchas, pocas o en ocasiones increíblemente la única,  obtuviste experiencias y probablemente descubriste conductas de la otra persona o de ti misma que no aportaban a un "juntos por siempre" o viceversa, 
-
-Algo que me ha causado mucha intriga y que probablemente se que esté mal es que, ya nada es como antes... Referente a las relaciones de nuestros antepasados, y se que hablar de esas relaciones, se traduce a existencia de machismo 
+Agradecer porque gracias a esas relaciones, muchas, pocas o en ocasiones increíblemente la única,  obtuviste experiencias y probablemente descubriste conductas de la otra persona o de ti misma que no aportaban a un "juntos por siempre" o viceversa, y lo principal que mecionan, es que te diste la oportunidad de sentir amor, ese sentimiento que muchos hablan pero ignoran de que aun haciendo cosas felices del amor, también existen cosas tristes.
 
 
-Al terminar de leer esto te preguntarás, ¿Que necesidad tengo yo de tener una relación?, ¿Es necesario tener una relación amorosa? ¿pasar el resto de mi vida con otra persona? ¿Y si me gusta estar solo o sola? ¿Y si tengo otras metas o prioridades? 
+Al terminar de leer esto te preguntarás, *¿Que necesidad tengo yo de tener una relación?*, *¿Es necesario tener una relación amorosa?* *¿pasar el resto de mi vida con otra persona?* *¿Y si me gusta estar solo o sola?* *¿Y si tengo otras metas o prioridades?*
 
-Lo único que te tengo que decir es que el amor no avisa cuando llegara y cuando se irá, y no estoy romantizando,  si tienes otras prioridades o simplemente no es tu momento, está bien, solo se claro con tus sentimientos y se claro con la otra persona, no es para que no sufran, sino para que sufran lo menos posible. 
+Lo único que te podría decir es que el amor no avisa cuando llegará y cuando se irá, no estoy intentando romantizar, solo que, sí tienes otras prioridades, estás pasando por sientas etapas o simplemente no es tu momento, está bien, solo se claro con tus sentimientos y se claro con la otra persona, el objetivo no es evitar sufrir, sino intentar que sufran lo menos posible. 
 
 ***
 
