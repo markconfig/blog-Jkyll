@@ -45,6 +45,6 @@ Lo único que te tengo que decir es que el amor no avisa cuando llegara y cuando
 
 ***
 
-## [Comparte en Facebook](https://www.facebook.com/sharer/sharer.php?u= "Comparte en Facebook")
+## [Comparte en Facebook](https://www.facebook.com/sharer/sharer.php?u=https://blog-markreyes77.github.io/Siempre-Juntos/ "Comparte en Facebook")
 
-## [Comparte en Twitter](https://twitter.com/intent/tweet?text= Dale una leída a esto: https://blog-markreyes77.github.io/Te-Amo-Mama “Comparte en Twitter”)
+## [Comparte en Twitter](https://twitter.com/intent/tweet?text= Dale una leída a esto: https://blog-markreyes77.github.io/Siempre-Juntos/ “Comparte en Twitter”)
