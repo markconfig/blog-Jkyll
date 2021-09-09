@@ -33,4 +33,4 @@ Volví al cuarto con mi mamá, le di un gran abrazo y con palabras sinceras de m
 
 
 ## [Comparte en Facebook](https://www.facebook.com/sharer/sharer.php?u=https://blog-markreyes77.github.io/Te-Amo-Mama "Comparte en Facebook 2")
-## [Comparte en Twitter](https://twitter.com/?status= Dale una leída a esto: https://blog-markreyes77.github.io/Te-Amo-Mama "Comparte en Twitter")
+## [Comparte en Twitter](https://twitter.com/intent/tweet?text= Dale una leída a esto: https://blog-markreyes77.github.io/Te-Amo-Mama "Comparte en Twitter"
