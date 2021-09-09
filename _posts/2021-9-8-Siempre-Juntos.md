@@ -40,10 +40,9 @@ Al terminar de leer esto te preguntarás, ¿Que necesidad tengo yo de tener una 
 
 Lo único que te tengo que decir es que el amor no avisa cuando llegara y cuando se irá, y no estoy romantizando,  si tienes otras prioridades o simplemente no es tu momento, está bien, solo se claro con tus sentimientos y se claro con la otra persona, no es para que no sufran, sino para que sufran lo menos posible. 
 
-
-[Foto de Văn Thắng en Pexels](https://www.pexels.com/es-es/foto/hombre-y-mujer-cerca-de-campo-de-hierba-1415131/ "Foto de Văn Thắng en Pexels")
-
 ***
+
+### [Foto de Văn Thắng en Pexels](https://www.pexels.com/es-es/foto/hombre-y-mujer-cerca-de-campo-de-hierba-1415131/ "Foto de Văn Thắng en Pexels")
 
 ## [Comparte en Facebook](https://www.facebook.com/sharer/sharer.php?u=https://blog-markreyes77.github.io/Siempre-Juntos/ "Comparte en Facebook")
 
