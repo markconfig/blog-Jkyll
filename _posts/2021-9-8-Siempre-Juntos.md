@@ -33,7 +33,7 @@ Y
 
 ***Ambas frases desconozco el autor***
 
-Agradecer porque gracias a esas relaciones, muchas, pocas o en ocasiones increíblemente la única,  obtuviste experiencias y probablemente descubriste conductas de la otra persona o de ti misma que no aportaban a un "juntos por siempre" o viceversa, y lo principal que mecionan, es que te diste la oportunidad de sentir amor, ese sentimiento que muchos hablan pero ignoran de que aun haciendo cosas felices del amor, también existen cosas tristes.
+Agradecer porque gracias a esas relaciones, muchas, pocas o en ocasiones increíblemente la única,  obtuviste experiencias y probablemente descubriste conductas de la otra persona o de ti misma que no aportaban a un "juntos por siempre" o viceversa, y lo principal que mecionan, es que te diste la oportunidad de sentir amor, ese sentimiento que muchos hablan pero ignoran de que aun habiendo cosas felices del amor, también existen cosas tristes.
 
 
 Al terminar de leer esto te preguntarás, ***¿Que necesidad tengo yo de tener una relación?***, ***¿Es necesario tener una relación amorosa?*** ***¿pasar el resto de mi vida con otra persona?*** ***¿Y si me gusta estar solo o sola?*** ***¿Y si tengo otras metas o prioridades?***
