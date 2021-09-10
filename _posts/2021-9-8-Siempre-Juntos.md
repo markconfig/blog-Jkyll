@@ -19,7 +19,7 @@ Estar consientes de todo esto no es fácil, pero no por eso no te vas a permitir
 ![JuntosPorSiempre]({{ site.baseurl }}/images/JuntosPorSiempre.jpg)
 
 
-## Todo es subjetivo 
+## La importancia de amar y ser amado 
 
 Todo lo que digo aquí es ideas propias, construidas por vivencias y/o experiencias y considerando que el deseo es el deseo del otro, y si nos metiéramos al caso por caso encontraríamos tantas cosas que influyen en las relaciones de las personas para que puedan desarrollar o sabotear su "Juntos por siempre".
 
