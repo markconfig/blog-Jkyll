@@ -10,7 +10,7 @@ Todo paso en un día de esta semana, tengo una gallina que esta criando, a sus p
 ![Gallina]({{ site.baseurl }}/images/gallina.jpg)
 
 
-Eran los mismos síntomas, sin querer pensé a imaginar y a cuestinarme lo que provocaria si el veneno de el alacrán acababa con la vida de la mamá gallina, la falta de una madre para ellos ¿que harán los pollitos sin su mamá gallina? ¿Tendrán la edad suficiente para salir adelantes solos? ¿Quien los acurrucara? ¿Quien los mantendrá calientes en las frías noches?
+Eran los mismos síntomas, sin querer pensé a imaginar y a cuestionarme lo que provocaría si el veneno de el alacrán acababa con la vida de la mamá gallina, la falta de una madre para ellos ¿que harán los pollitos sin su mamá gallina? ¿Tendrán la edad suficiente para salir adelantes solos? ¿Quien los acurrucara? ¿Quien los mantendrá calientes en las frías noches?
 El sentimiento que surgía en mi interior era devastador, porque yo no me imaginaria la vida sin mi madre.
 Acudí a mi mama, le conté lo que le pasaba a la mamá gallina, ella también dedujo que era la picadura de un alacrán.
 Me dijo:
@@ -33,4 +33,5 @@ Volví al cuarto con mi mamá, le di un gran abrazo y con palabras sinceras de m
 
 
 ## [Comparte en Facebook](https://www.facebook.com/sharer/sharer.php?u=https://blog-markreyes77.github.io/Te-Amo-Mama "Comparte en Facebook 2")
-## [Comparte en Twitter](https://twitter.com/intent/tweet?text= Dale una leída a esto: https://blog-markreyes77.github.io/Te-Amo-Mama "Comparte en Twitter")
+
+## [Comparte en Twitter](https://twitter.com/?status= Dale una leída a esto: https://blog-markreyes77.github.io/Te-Amo-Mama "Comparte en Twitter")
