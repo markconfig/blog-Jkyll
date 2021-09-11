@@ -8,7 +8,7 @@ Mi nombre es **Marcos**, tengo 22 años de edad, soy estudiante del último seme
 
 
 ### More Information
-Me gusta resolver problemas que impliquen escribir código, actualmente en mi portafolio he trabajado con lenguajes como: Java (Principalmente), bases de datos con MYSQL, Domótica con Arduino, Diseño y desarrollo de páginas web con HTML, CSS, JavaScript y PHP, tengo conocimientos básicos en programación móvil en Android, nativo con lenguaje de programación Java, y multiplataforma con lenguaje de programación Xamarin.
+Me gusta resolver problemas que impliquen escribir código, actualmente en mi portafolio he trabajado con lenguajes como: Java (Principalmente), bases de datos con MYSQL, Domótica con Arduino, Diseño y desarrollo de páginas web con HTML, CSS, JavaScript y PHP, tengo conocimientos básicos en programación móvil en Android, nativo con lenguaje de programación Java, y multiplataforma con Xamarin.
 
 
 ### Contact me
