@@ -39,8 +39,11 @@ Agradecer porque gracias a esas relaciones, muchas, pocas o en ocasiones increí
 Al terminar de leer esto te preguntarás, ***¿Qué necesidad tengo yo de tener una relación?***, ***¿Es necesario tener una relación amorosa?*** ***¿Pasar el resto de mi vida con otra persona?*** ***¿Y si me gusta estar solo o sola?*** ***¿Y si tengo otras metas o prioridades?***
 
 Lo único que te podría decir es que el amor no avisa cuando llegará y cuando se irá, no estoy intentando romantizar, solo que, sí tienes otras prioridades, estás pasando por sientas etapas o simplemente no es tu momento, está bien, solo se claro con tus sentimientos y se claro con la otra persona, el objetivo no es evitar sufrir, sino intentar que sufran lo menos posible.
+
 ***
+
 ** No de muere quien se va, solo se puede quien se olvida
+
 ***
 
 ### [Foto de Văn Thắng en Pexels](https://www.pexels.com/es-es/foto/hombre-y-mujer-cerca-de-campo-de-hierba-1415131/ "Foto de Văn Thắng en Pexels")
