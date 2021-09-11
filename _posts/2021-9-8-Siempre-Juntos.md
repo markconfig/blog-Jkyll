@@ -42,7 +42,7 @@ Lo único que te podría decir es que el amor no avisa cuando llegará y cuando 
 
 ***
 
-** No de muere quien se va, solo se puede quien se olvida
+*** No se muere quien se va, solo se muere quien se olvida
 
 ***
 
