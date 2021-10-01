@@ -20,10 +20,14 @@ Las carcajadas en el grupo nunca faltaban.
 
 **¡Sentí nostalgia!**
 
-La organización del grupo para almorzar todo como una segunda familia en el comedor del instituto: 
+La organización del grupo para almorzar todo como una segunda familia en el comedor del instituto:
+
 —¡Tú y tú, vayan por las tortillas! 
+
 —¡Tú y tú, vayan por el agua! 
+
 —¡Ustedes, esperen los platos del desayuno del día!
+
 
 No faltaban los que no querían hacer nada, ¡Claro! ¡Si! ¡Cómo en una familia!, ¿Me entienden? 
 Las carcajadas que nunca faltan en la mesa del comedor.
