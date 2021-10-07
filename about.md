@@ -13,4 +13,8 @@ Me gusta resolver problemas que impliquen escribir código, actualmente en mi po
 
 ### Contact me
 
-[marcos.mrc.77@gmail.com](mailto:marcos.mrc.77@gmail.com)
+***Correo Electrónico*** [marcos.mrc.77@gmail.com](mailto:marcos.mrc.77@gmail.com)
+
+***Teléfono*** [953-126-61-26](tel:+529531266126)
+
+[WhatsApp](wa.me/+529531266126)
