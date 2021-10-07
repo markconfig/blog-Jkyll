@@ -18,3 +18,5 @@ Me gusta resolver problemas que impliquen escribir código, actualmente en mi po
 ***Teléfono*** [953-126-61-26](tel:+529531266126)
 
 [WhatsApp](https://api.whatsapp.com/send?phone=+529531266126)
+
+[Telegram](https://t.me/Markconfig)
