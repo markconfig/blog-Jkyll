@@ -3,9 +3,9 @@ layout: post
 title: Nostalgia 
 ---
 
-Hoy como todos los días me desperté pensando sobre las consecuencia de mis actos, y salí, salí a caminar impresionado por qué el frío que se percibía de la calle no era la acostumbrada, normalmente en esta región siempre hace calor, la llovizna en la madrugada causante de ese frío, la verdad a mí me gustó. Se antojaba una pieza de pan acompañado de cafe o chocolatito caliente.
+Hoy como todos los días me desperté pensando sobre las consecuencia de mis actos, y me anime a salir, salí a caminar, al mismo tiempo impresionado por qué el frío que se percibía de la calle no era la acostumbrada, normalmente en esta región siempre hace calor. La llovizna en la madrugada causante de ese frío, la verdad a mí me gustó. Se antojaba una pieza de pan acompañado de cafe o chocolatito caliente.
 
-Camine unas cuadras, percibí el caos de las personas apuradas a llegar a su destino, niños y jóvenes esperando la combi para transportarlos a su destino, la escuela, casi olvidaba que en este semestre muchas instituciones educativas abrieron sus puertas para que los alumnos que quieran o puedan, regresen a clases presenciales. Sentí nostalgia, me acordé de mis primeros semestres de la carrera, yendo a las prisas a todos lados, principalmente a las primeras clases, casi siempre por quedar dormido.
+Caminé unas cuadras, percibí el caos de las personas apuradas para llegar a su destino, niños y jóvenes esperando la combi para transportarlos a su destino, la escuela, casi olvidaba que en este semestre muchas instituciones educativas abrieron sus puertas para que los alumnos que quieran o puedan, regresen a clases presenciales. Sentí nostalgia, me acordé de mis primeros semestres de la carrera, yendo a las prisas a todos lados, principalmente a las primeras clases, casi siempre por quedar dormido.
 
 
 ![Church]({{ site.baseurl }}/images/Church.jpg)
