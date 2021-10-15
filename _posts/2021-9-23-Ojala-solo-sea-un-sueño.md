@@ -11,4 +11,4 @@ Sin embargo tiene que haber una aceptación, y créeme que no es fácil, me duel
 
 ![Church]({{ site.baseurl }}/images/together.jpeg)
 
-*Ya me voy, ¡voy a verte!,* ***Espero que efectivamente solo haya sigo un producto de inseguridad que mi mente reflejo en forma de pesadilla en una larga noche de sueño.***
+*Ya me voy, ¡voy a verte!,* ***Espero que efectivamente solo haya sido un producto de inseguridad que mi mente reflejo en forma de pesadilla en una larga noche de sueño.***
