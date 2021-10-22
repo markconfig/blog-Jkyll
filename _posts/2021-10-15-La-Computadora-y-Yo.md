@@ -23,6 +23,6 @@ Entiendeme si no puedo hacerlo de la mejor manera, la complejidad que manejas es
 
 ***
 
-## [Comparte en Facebook](https://www.facebook.com/sharer/sharer.php?u=https://blog-markreyes77.github.io/The-La-Computadora-y-Yo "Comparte en Facebook")
+## [Comparte en Facebook](https://www.facebook.com/sharer/sharer.php?u=https://blog-markreyes77.github.io/La-Computadora-y-Yo "Comparte en Facebook")
 
-## [Comparte en Twitter](https://twitter.com/intent/tweet?text= Dale una leída a esto: https://blog-markreyes77.github.io/The-La-Computadora-y-Yo)
+## [Comparte en Twitter](https://twitter.com/intent/tweet?text= Dale una leída a esto: https://blog-markreyes77.github.io/La-Computadora-y-Yo)
