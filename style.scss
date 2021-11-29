@@ -152,6 +152,8 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
+  background: #1abc9c; 
+
 }
 
 .masthead {
@@ -182,7 +184,6 @@ img {
 
 .site-info {
   float: left;
-  background: #1abc9c; 
   @include mobile {
     float: none;
     display: block;
