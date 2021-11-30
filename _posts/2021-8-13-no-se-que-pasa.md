@@ -23,3 +23,5 @@ En fin, espero en día posteriores poder estructura mejor mis ideas y pendientes
 
 
 [Foto de Olya Kobruseva en Pexels](https://www.pexels.com/es-es/foto/persona-con-dificultad-y-preguntas-en-estudios-5428833/ "Foto de Kaique Rocha en Pexels")
+
+***
