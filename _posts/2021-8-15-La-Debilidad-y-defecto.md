@@ -12,4 +12,4 @@ Hoy en este día vengo a dejar un párrafo del libro de Diego Ruzzarin titulado 
 
 Bueno es todo por hoy, mañana vendré con más cosas que contar.
 
-
+***
