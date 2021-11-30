@@ -41,6 +41,6 @@ Los extraño a todos, extraño al grupo.
 
 ***
 
-## [Comparte en Facebook](https://www.facebook.com/sharer/sharer.php?u=https://blog-markreyes77.github.io/Nostalgia/ "Comparte en Facebook")
+## [Comparte en Facebook](https://www.facebook.com/sharer/sharer.php?u={{ site.baseurl }}{{ post.url }} "Comparte en Facebook")
 
-## [Comparte en Twitter](https://twitter.com/intent/tweet?text= Dale una leída a esto: https://blog-markreyes77.github.io/Nostalgia)
+## [Comparte en Twitter](https://twitter.com/intent/tweet?text= Dale una leída a esto: {{ site.baseurl }}{{ post.url }} "Comparte en Twitter")
