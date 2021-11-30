@@ -40,16 +40,12 @@ Al terminar de leer esto te preguntarás, ***¿Qué necesidad tengo yo de tener 
 
 Lo único que te podría decir es que el amor no avisa cuando llegará y cuando se irá, no estoy intentando romantizar, solo que, sí tienes otras prioridades, estás pasando por ciertas etapas o simplemente no es tu momento, está bien, solo se claro con tus sentimientos y se claro con la otra persona, el objetivo no es evitar sufrir, sino intentar que sufran lo menos posible.
 
-***
 
-***No se muere quien se va, solo se muere quien se olvida.***
-***Canserbero***
-
-
-***
 
 ### [Foto de Văn Thắng en Pexels](https://www.pexels.com/es-es/foto/hombre-y-mujer-cerca-de-campo-de-hierba-1415131/ "Foto de Văn Thắng en Pexels")
 
-## [Comparte en Facebook](https://www.facebook.com/sharer/sharer.php?u=https://blog-markreyes77.github.io/Siempre-Juntos/ "Comparte en Facebook")
+## [Comparte en Facebook](https://www.facebook.com/sharer/sharer.php?u=https://markconfig.github.io/blog/Siempre-Juntos/ "Comparte en Facebook")
 
-## [Comparte en Twitter](https://twitter.com/intent/tweet?text= Dale una leída a esto: https://blog-markreyes77.github.io/Siempre-Juntos/ “Comparte en Twitter”)
+## [Comparte en Twitter](https://twitter.com/intent/tweet?text= Dale una leída a esto: https://markconfig.github.io/blog/Siempre-Juntos/ “Comparte en Twitter”)
+
+***
