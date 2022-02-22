@@ -22,4 +22,4 @@ Entiendeme si no puedo hacerlo de la mejor manera, la complejidad que manejas es
 
 
 
-### [Foto de Markus Spiske en Pexels](pexels.com/es-es/foto/ordenador-portatil-oficina-internet-tecnologia-177598/ "Foto de Markus Spiske en Pexels")
+### [Foto de Markus Spiske en Pexels](https://www.pexels.com/es-es/foto/ordenador-portatil-oficina-internet-tecnologia-177598/ "Foto de Markus Spiske en Pexels")
