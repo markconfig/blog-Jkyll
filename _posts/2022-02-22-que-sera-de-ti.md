@@ -43,6 +43,6 @@ No éramos para nosotros, hasta este punto ya no se si creer fielmente en el pod
 
 ### [Te recomiendo esta Canción:](https://www.youtube.com/watch?v=AjGkbFqi67c)
 
-<iframe width="420" height="315"
+<iframe width="auto" height="315"
 src="https://www.youtube.com/embed/AjGkbFqi67c">
 </iframe>
