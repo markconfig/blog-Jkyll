@@ -38,11 +38,3 @@ Los extraño a todos, extraño al grupo.
 
 ***Sentí nostalgia, sentí esa ausencia de lo que, por varios años viví.***
 
-
-***
-
-## [Comparte en Facebook](https://www.facebook.com/sharer/sharer.php?u=https://markconfig.github.io/blog/Nostalgia/ "Comparte en Facebook")
-
-## [Comparte en Twitter](https://twitter.com/intent/tweet?text= Dale una leída a esto: https://markconfig.github.io/blog/Nostalgia/ "Comparte en Twitter")
-
-***

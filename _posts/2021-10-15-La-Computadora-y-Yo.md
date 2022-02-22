@@ -19,10 +19,3 @@ Entiendeme si no puedo hacerlo de la mejor manera, la complejidad que manejas es
 ***Voy por ti, por esta pasión que no lo puede apagar mis recursos limitados, seguiré hasta no poder más.***
 
 ***[En construcción... Posible fin...]***
-
-
-***
-
-## [Comparte en Facebook](https://www.facebook.com/sharer/sharer.php?u=https://markconfig.github.io/blog/La-Computadora-y-Yo/ "Comparte en Facebook")
-
-## [Comparte en Twitter](https://twitter.com/intent/tweet?text= Dale una leída a esto: https://markconfig.github.io/blog/La-Computadora-y-Yo/)

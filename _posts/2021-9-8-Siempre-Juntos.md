@@ -43,9 +43,3 @@ Lo único que te podría decir es que el amor no avisa cuando llegará y cuando 
 
 
 ### [Foto de Văn Thắng en Pexels](https://www.pexels.com/es-es/foto/hombre-y-mujer-cerca-de-campo-de-hierba-1415131/ "Foto de Văn Thắng en Pexels")
-
-## [Comparte en Facebook](https://www.facebook.com/sharer/sharer.php?u=https://markconfig.github.io/blog/Siempre-Juntos/ "Comparte en Facebook")
-
-## [Comparte en Twitter](https://twitter.com/intent/tweet?text= Dale una leída a esto: https://markconfig.github.io/blog/Siempre-Juntos/ “Comparte en Twitter”)
-
-***
