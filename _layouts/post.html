@@ -3,10 +3,33 @@ layout: default
 ---
 
 <article class="post">
+
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v13.0"
+    nonce="B2RmAXgY"></script>
+
   <h1>{{ page.title }}</h1>
 
   <div class="entry">
     {{ content }}
+  </div>
+
+  <div>
+    <div class="fb-share-button" data-href="{{ site.baseurl }}{{ page.url }}" data-layout="button_count"
+      data-size="large">
+      <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.baseurl }}{{ page.url }}&amp;src=sdkpreparse&t=Daleuna%20leída%20a%20esto:"
+        target="_blank" class="fb-xfbml-parse-ignore">Compartir</a>
+    </div>
+    <br>
+
+    <br>
+    <div>
+      <a class="twitter-share-button" data-size="large"
+        href="https://twitter.com/intent/tweet?text= Dale una leída a esto: ">
+        Tweet</a>
+      <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
+    <hr>
   </div>
 
   <div class="date">
