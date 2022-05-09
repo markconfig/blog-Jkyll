@@ -9,7 +9,8 @@ name: Mi Blog
 description: Un pequeño blog, en donde se habla de lo que sea.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars.githubusercontent.com/u/43713105?v=4
+# avatar: https://avatars.githubusercontent.com/u/43713105?v=4
+avatar: https://markconfig.github.io/assets/img/ColorsMark.jpg
 
 #
 # Flags below are optional
@@ -19,7 +20,7 @@ avatar: https://avatars.githubusercontent.com/u/43713105?v=4
 footer-links:
   dribbble:
   email: marcos.mrc.77@gmail.com
-  facebook: 
+  facebook: marcos.cruzreyes.9275
   flickr:
   github: markconfig
   instagram: markconfig
@@ -73,7 +74,7 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
+plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
