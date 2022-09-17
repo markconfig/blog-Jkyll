@@ -1,6 +1,12 @@
 ---
 layout: post 
 title: La ausencia hace crecer el cariño
+date: 2021-08-17 22:00:00
+tags: Ausencia, Crecer, Cariño, Amistad, Amor
+urlImage:
+ path: https://images.pexels.com/photos/307915/pexels-photo-307915.jpeg?auto=compress&cs=tinysrgb&h=640&w=960
+ width: 1200
+ height: 630
 ---
 
 **¿Será verdad esto?**, La relación que existe entre la ausencia y el incremento de cariño/amor/afecto entre personas. 

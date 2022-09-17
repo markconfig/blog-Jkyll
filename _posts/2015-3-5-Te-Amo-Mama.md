@@ -1,6 +1,12 @@
 ---
 layout: post
 title: Te amo Mamá
+date: 2015-03-05 22:00:00
+tags: Mamá, Amor, Querer, Maternidad
+urlImage:
+ path: https://images.pexels.com/photos/2134246/pexels-photo-2134246.jpeg?auto=compress&cs=tinysrgb&h=426&w=640
+ width: 1200
+ height: 630
 ---
 
 Todo paso en un día de esta semana, tengo una gallina que esta criando, a sus pollitos, (exactamente 3, con tan solo 3 semanas aprox. de edad), me percato que la mamá gallina, esta "malita", anda desorientada, con apenas fuerzas para caminar; sin dudarlo pensé:

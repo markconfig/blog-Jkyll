@@ -1,6 +1,12 @@
 ---
 layout: post
 title: La debilidad y defecto
+date: 2021-08-15 22:00:00
+tags: Nada, Soledad, Preguntas
+image: 
+ path: LogotipoMarkConfig.png
+ width: 1200
+ height: 630
 ---
 
 Hoy en este día vengo a dejar un párrafo del libro de Diego Ruzzarin titulado “incongruencias pseudointelectuales”, que a mí particularmente, considero que es una verdad para la mayoría de nosotros.

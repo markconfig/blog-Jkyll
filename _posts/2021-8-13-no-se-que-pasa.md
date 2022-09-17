@@ -1,6 +1,12 @@
 ---
 layout: post
 title: No se que está pasando
+date: 2022-08-13 22:00:00
+tags: No, Pasa, Saber
+urlImage:
+ path: https://images.pexels.com/photos/5428833/pexels-photo-5428833.jpeg?auto=compress&cs=tinysrgb&h=640&w=958
+ width: 1200
+ height: 630
 ---
 
 **¿Cuál es el problema de todo?**, *No se cómo empezar, creo que primero tengo que plasmar el contexto, un contexto algo extenso.*

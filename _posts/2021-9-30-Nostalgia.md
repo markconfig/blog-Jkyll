@@ -1,6 +1,12 @@
 ---
 layout: post
-title: Nostalgia 
+title: Nostalgia
+date: 2021-09-30 22:00:00
+tags: Nostalgia, Escuela, Compañero, Alumno
+image:
+ path: Church.jpg
+ width: 1200
+ height: 630
 ---
 
 Hoy como todos los días me desperté pensando sobre las consecuencia de mis actos, y me anime a salir, salí a caminar, al mismo tiempo impresionado por qué el frío que se percibía de la calle no era la acostumbrada, normalmente en esta región siempre hace calor. La llovizna en la madrugada causante de ese frío, la verdad a mí me gustó. Se antojaba una pieza de pan acompañado de cafe o chocolatito caliente.
@@ -8,7 +14,7 @@ Hoy como todos los días me desperté pensando sobre las consecuencia de mis act
 Caminé unas cuadras, percibí el caos de las personas apuradas para llegar a su destino, niños y jóvenes esperando la combi para transportarlos a su destino, la escuela, casi olvidaba que en este semestre muchas instituciones educativas abrieron sus puertas para que los alumnos que quieran o puedan, regresen a clases presenciales. Sentí nostalgia, me acordé de mis primeros semestres de la carrera, yendo a las prisas a todos lados, principalmente a las primeras clases, casi siempre por quedar dormido.
 
 
-![Church]({{ site.baseurl }}/images/Church.jpg)
+![Church]({{ site.baseurl }}/images/post/Church.jpg)
 
 **¡Sentí nostalgia!**
 

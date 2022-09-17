@@ -1,6 +1,12 @@
 ---
 layout: post
 title: Siempre juntos o juntos por siempre
+date: 2021-09-08 22:00:00
+tags: Juntos, siempre, Amor, SOledad, Pareja, Siempre
+urlImage:
+ path: https://images.pexels.com/photos/1415131/pexels-photo-1415131.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=426&w=640
+ width: 1200
+ height: 630
 ---
 
 ***¿En algún momento de sus vidas juraron amor para toda la eternidad?*** ***¿Les ha pasado alguna vez esto?***

@@ -1,6 +1,12 @@
 ---
 layout: post
 title: ¿Qué será de ti?
+date: 2022-02-22 22:00:00
+tags: Curiosidad, Tren, Derecho, Juntos, Nunca, Solos
+urlImage:
+ path: https://images.pexels.com/photos/3095621/pexels-photo-3095621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+ width: 1200
+ height: 630
 ---
 
 Todos los días lo veo a él en la estación del autobús, esperando a abordar y llegar a su destino.

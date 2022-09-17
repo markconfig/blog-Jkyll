@@ -1,6 +1,12 @@
 ---
 layout: post
 title: Mis pies descalzos
+date: 2022-07-19 22:00:00
+tags: Detalle, Ser, Flor
+urlImage:
+ path: https://images.pexels.com/photos/10907131/pexels-photo-10907131.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+ width: 1200
+ height: 630
 ---
 
 

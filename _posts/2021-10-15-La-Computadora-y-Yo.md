@@ -1,6 +1,12 @@
 ---
 layout: post
 title: La Computadora y Yo 
+date: 2021-10-15 22:00:00
+tags: Computadora, Café, Noches, Programador, Software, Hardaware
+urlImage:
+ path: https://images.pexels.com/photos/177598/pexels-photo-177598.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=426&w=640
+ width: 1200
+ height: 630
 ---
 
 **Estoy en una relación muy peculiar,** 
