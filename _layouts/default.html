@@ -14,7 +14,14 @@
     const fecha = event.toLocaleDateString('es-MX', options);
 
     window.onload = function () {
-      document.getElementById("dateId").innerHTML = `Publicado en ${fecha}`;
+      let data = '{{page.date}}'.split(' ');
+      let arrDate = data[0].split('-');
+      const event = new Date(Date.UTC(Number(arrDate[0]), Number(arrDate[1]) - 1, Number(arrDate[2]) + 1));
+      const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+      const fecha = event.toLocaleDateString('es-MX', options);
+      if (!!document.getElementById("dateId")) {
+        document.getElementById("dateId").innerHTML = `Publicado en ${fecha}`;
+      }
     }
   </script>
 
