@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nostalgia
+title: Nostalgia 🏫
 date: 2021-09-30 22:00:00
 tags: Nostalgia, Escuela, Compañero, Alumno
 image:

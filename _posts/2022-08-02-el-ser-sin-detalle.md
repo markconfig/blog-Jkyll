@@ -1,6 +1,6 @@
 ---
 layout: post
-title: El ser sin el detalle
+title: El ser sin el detalle 🌻
 date: 2022-08-02 22:00:00
 tags: Detalle, Ser, Flor
 image:

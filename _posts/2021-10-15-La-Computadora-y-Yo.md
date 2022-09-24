@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La Computadora y Yo 
+title: La Computadora y yo 🧑‍💻
 date: 2021-10-15 22:00:00
 tags: Computadora, Café, Noches, Programador, Software, Hardaware
 urlImage:

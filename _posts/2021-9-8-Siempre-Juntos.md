@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Siempre juntos o juntos por siempre
+title: Siempre juntos o juntos por siempre 🧠🫀
 date: 2021-09-08 22:00:00
 tags: Juntos, siempre, Amor, SOledad, Pareja, Siempre
 urlImage:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La debilidad y defecto
+title: La debilidad y defecto 👫
 date: 2021-08-15 22:00:00
 tags: Nada, Soledad, Preguntas
 image: 
