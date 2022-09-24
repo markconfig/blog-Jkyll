@@ -20,7 +20,7 @@
       const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
       const fecha = event.toLocaleDateString('es-MX', options);
       if (!!document.getElementById("dateId")) {
-        document.getElementById("dateId").innerHTML = `Publicado en ${fecha}`;
+        document.getElementById("dateId").innerHTML = `Publicado el día ${fecha}`;
       }
     }
   </script>
