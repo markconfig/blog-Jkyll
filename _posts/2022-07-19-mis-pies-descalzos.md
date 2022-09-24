@@ -22,7 +22,7 @@ Sentir la tierra blanda y firme del suelo, dónde la supuesta protección lucha 
 
 Manifestándose mientras las gotas perfectas de lluvia caían en ese espacio donde la lucidez generaba impresión y referían a momento y sensación totalmente.
 
-![Autobus](https://images.pexels.com/photos/10907131/pexels-photo-10907131.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![Huellas de pies en la arena](https://images.pexels.com/photos/10907131/pexels-photo-10907131.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 
 

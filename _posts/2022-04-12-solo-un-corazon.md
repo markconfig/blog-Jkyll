@@ -13,7 +13,7 @@ image:
 <br>
 Es importante, sin exponer puntos, al final de cuentas gracias a él, podemos seguir en vida, gracias a su... ***¡bombeo constante!***.
 
-![Flor]({{ site.baseurl }}/images/post/solouncorazon.jpg)
+![Corazon sobre un teclado de colores]({{ site.baseurl }}/images/post/solouncorazon.jpg)
 
 Un corazón como el de la imagen, como luce, como se representa, como se percibe. No es más que un corazón **egoísta, abusador, deteriorado, cansado**, que ha hecho el mal y el bien, que sufre y que ha hecho sufrir, dolido, con aspiraciones, sueños y recuerdos de su vivir.
 

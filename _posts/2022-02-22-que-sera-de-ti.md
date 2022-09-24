@@ -25,7 +25,7 @@ Pero en el fondo de mi sentía que algo no estaba bien, que algo no estaba bien 
 
 Fue la última vez que lo vi e incluso con las pocas palabras que intercambiamos era inevitable sentir la creación de un fuerte vínculo con el, ocasionando el hecho de que hoy en día lo siga recordando.
 
-![Autobus](https://images.pexels.com/photos/3095621/pexels-photo-3095621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+![Joven sentada en los asientos de un atobus](https://images.pexels.com/photos/3095621/pexels-photo-3095621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
 
 Todas las noches pensó en él, sueño con él, acerca de lo que pudimos haber sido, en numerosas ocasiones me reprochó a mi, por mi propia cobardía, por no haber intercambiado palabras antes.
 

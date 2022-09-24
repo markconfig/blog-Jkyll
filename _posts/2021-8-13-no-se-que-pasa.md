@@ -16,7 +16,7 @@ urlImage:
 ¿Qué esperar de la vida? Todo es tan subjetivo que para analizar caso por caso no podríamos culminar, creo que, jamás. 
 Algunos quieren ser guapos, tener bonito cabello, tener el reconocimiento de las personas... Etc. 
 
-![Desconocer](https://images.pexels.com/photos/5428833/pexels-photo-5428833.jpeg?auto=compress&cs=tinysrgb&h=640&w=958)
+![Imagen con carteles se digno de interrogación](https://images.pexels.com/photos/5428833/pexels-photo-5428833.jpeg?auto=compress&cs=tinysrgb&h=640&w=958)
 
 **¿Yo que quiero?** No lo sé, no se que futuro tengas las personas como yo, difíciles de entender a los demás y de que que los demásle entiendan. Yo creo que no hay nada.
 

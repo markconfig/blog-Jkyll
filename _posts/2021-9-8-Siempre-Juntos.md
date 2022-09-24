@@ -22,7 +22,7 @@ Por tal razón, no te enojes cuando alguien te promete y te habla sobre que quie
 Estar conscientes de todo esto no es fácil, pero no por eso no te vas a permitir dar todo por alguien, quizás tengas muchas relaciones amorosas, en donde encuentres amor, cuidado, valoración, seguridad, deseo, cariño etc. Así como también dolor, sufrimiento, ansiedad, estrés, cotidianidad etc. El hecho de que sepas que duela, no es pretexto para que no te esfuerces, puede que tome una sola relación o incluso varias, como sea el caso, aprenderás que la buena comunicación de lo que sientes y piensas así como de la comprensión de la otra persona hace de una sólida base para que ese "juntos por siempre" dure lo que muchos años.
 
 
-![Imagen juntos Por Siempre](https://images.pexels.com/photos/1415131/pexels-photo-1415131.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=426&w=640)
+![Imagen pareja sentados](https://images.pexels.com/photos/1415131/pexels-photo-1415131.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=426&w=640)
 
 
 ## Todo es subjetivo

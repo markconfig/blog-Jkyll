@@ -14,7 +14,7 @@ Hoy como todos los días me desperté pensando sobre las consecuencia de mis act
 Caminé unas cuadras, percibí el caos de las personas apuradas para llegar a su destino, niños y jóvenes esperando la combi para transportarlos a su destino, la escuela, casi olvidaba que en este semestre muchas instituciones educativas abrieron sus puertas para que los alumnos que quieran o puedan, regresen a clases presenciales. Sentí nostalgia, me acordé de mis primeros semestres de la carrera, yendo a las prisas a todos lados, principalmente a las primeras clases, casi siempre por quedar dormido.
 
 
-![Church]({{ site.baseurl }}/images/post/Church.jpg)
+![Imagen de una iglesia]({{ site.baseurl }}/images/post/Church.jpg)
 
 **¡Sentí nostalgia!**
 

@@ -13,7 +13,7 @@ Todo paso en un día de esta semana, tengo una gallina que esta criando, a sus p
 
 *—a esta gallina le pico un alacrán—.*
 
-![Gallina](https://images.pexels.com/photos/2134246/pexels-photo-2134246.jpeg?auto=compress&cs=tinysrgb&h=426&w=640)
+![Gallina alimentando a sus polluelos](https://images.pexels.com/photos/2134246/pexels-photo-2134246.jpeg?auto=compress&cs=tinysrgb&h=426&w=640)
 
 
 Eran los mismos síntomas, sin querer pensé a imaginar y a cuestionarme lo que provocaría si el veneno de el alacrán acababa con la vida de la mamá gallina, la falta de una madre para ellos ¿que harán los pollitos sin su mamá gallina? ¿Tendrán la edad suficiente para salir adelantes solos? ¿Quien los acurrucara? ¿Quien los mantendrá calientes en las frías noches?

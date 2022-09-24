@@ -32,7 +32,7 @@ ruinas del ser silenciados
 ***¿Soy, Eres, Es, Somos, Son?***
 
 
-![Flor]({{ site.baseurl }}/images/post/flor-amarilla.jfif)
+![Flor amarilla]({{ site.baseurl }}/images/post/flor-amarilla.jfif)
 
 
 

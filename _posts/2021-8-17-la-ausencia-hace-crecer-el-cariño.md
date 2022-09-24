@@ -19,7 +19,7 @@ Cuando hacemos participes de una familia, todos tenemos una función en ella, as
 
 Cuando no estamos cerca de nuestros seres queridos, los extrañamos, los pensamos, hasta  las peleas que tuvimos con ellos, las recordamos con extremo cariño. Cuando las volvemos a ver, las abrazamos lo más fuerte que podemos, platicamos horas de como nos ha ido en la vida, en ciertas circunstancias en las que ella no pidieron estar presentes. 
 
-![Soledad](https://images.pexels.com/photos/307915/pexels-photo-307915.jpeg?auto=compress&cs=tinysrgb&h=640&w=960)
+![Mujer viendo a través de una ventana](https://images.pexels.com/photos/307915/pexels-photo-307915.jpeg?auto=compress&cs=tinysrgb&h=640&w=960)
 
 Somos individuos sociales, por eso esa relación del hecho de que no podemos estar completamente solos y de que tomar distancia con alguien o algo (en este caso solo mencioné como ejemplo la familia), nos hace sensibilizar y reforzar nuestro cariño hacia ellos.
 

@@ -16,6 +16,6 @@ Después quisiera olvidar el sueño y saber lo que tengo que hacer y lo que no t
 Sin embargo tiene que haber una aceptación, y créeme que no es fácil, me duele aceptar que, lo poco o mucho que se construyó, se haya terminado, siempre trato de entender las situaciones por las que pasó lo que pasó. A veces me hago creer que entiendo las cosas. Pero es una verdad que en el fondo no entiendo nada. 
 
 
-![Church]({{ site.baseurl }}/images/post/together.jpeg)
+![Imagen de dos muñecos]({{ site.baseurl }}/images/post/together.jpeg)
 
 *Ya me voy, ¡voy a verte!,* ***Espero que efectivamente solo haya sido un producto de inseguridad que mi mente reflejo en forma de pesadilla en una larga noche de sueño.***
