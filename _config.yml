@@ -11,7 +11,7 @@ description: Un pequeño blog, en donde se habla de lo que sea.
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 # avatar: https://avatars.githubusercontent.com/u/43713105?v=4
 avatar: https://markconfig.github.io/assets/img/ColorsMark.jpg
-
+favicon: https://markconfig.github.io/assets/logo/MarconfigMini.png
 logo: https://markconfig.github.io/blog/images/logo/LogotipoMarkConfig.png
 #
 # Flags below are optional
