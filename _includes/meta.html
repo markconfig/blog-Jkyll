@@ -43,7 +43,7 @@
 <meta property="og:image" content="{{ page.urlImage.path }}" />
 <meta property="og:image:width" content="{{ page.urlImage.width }}" />
 <meta property="og:image:height" content="{{ page.urlImage.height }}" />
-{ % else % }
+{% else %}
 <meta property="og:image" content="{{ site.logo }}" />
 {% endif %}
 {% if page.is_post %}
