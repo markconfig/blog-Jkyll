@@ -1,7 +1,7 @@
 ---
 layout: post
 title: El insomnio o la moral 🌃✨
-date: 2022-11-06 22:00:00
+date: 2023-02-22 04:00:00
 tags: insomnio, moral, atardecer, cielo, amor, Sol, Amanecer, dolor
 image:
  path: insomnio-o-moral.jpg
