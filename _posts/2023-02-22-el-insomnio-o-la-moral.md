@@ -32,7 +32,9 @@ Quiero ver y ciego no estoy
 ***@Markconfig***
 
 ***
+
 ![Cielo morado azul]({{ site.baseurl }}/images/post/insomnio-o-moral.jpg)
+
 ***
 
 <blockquote class="twitter-tweet" data-theme="light"><p lang="es" dir="ltr">El insomnio o la moral 🌃✨ <a href="https://t.co/UynwdZhYLt">pic.twitter.com/UynwdZhYLt</a></p>&mdash; Marcos (@markconfig) <a href="https://twitter.com/markconfig/status/1639145909308063744?ref_src=twsrc%5Etfw">March 24, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
