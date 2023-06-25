@@ -29,7 +29,7 @@ Al volver de la escuela, pregunte por la mamá gallina, mi mamÁ me dijo:
 
 *—La mamá gallina esta mejor—*
 
-Enseguida fui a verla, ahí estaba acurrucando a sus pollitos, ¡calentándolos!, sin duda fue un alivio para mi, no me hubiese gustado ver la gran falta que le haría a los pollitos la mamá gallina. (Y por primera vez, reafirme que mi madre es todo para mi, y que aunque hayan discusiones o malos entendidos, ella siempre me amará y yo siempre la amare.
+Enseguida fui a verla, ahí estaba acurrucando a sus pollitos, ¡calentándolos!, sin duda fue un alivio para mi, no me hubiese gustado ver la gran falta que le haría a los pollitos la mamá gallina. Y por primera vez, reafirme que mi madre es todo para mi, y que aunque hayan discusiones o malos entendidos, ella siempre me amará y yo siempre la amare.
 Volví al cuarto con mi mamá, le di un gran abrazo y con palabras sinceras de mi corazón, le dije:
 
 **—TE AMO MAMÁ—**
