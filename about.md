@@ -4,7 +4,7 @@ title: Sobre mí
 permalink: /about/
 ---
 
-Mi nombre es **Marcos**, tengo 22 años de edad, soy egresado de Ing. Informática en el Instituto Tecnológico de Acatlán de Osorio, Puebla. Es un gran reto para mí comenzar a estructurar mis conocimientos para adentrarme en este mundo tecnológico, pero eso no me detiene, porque soy firme con mis decisiones.
+Mi nombre es **Marcos**, soy egresado de Ing. Informática en el Instituto Tecnológico de Acatlán de Osorio, Puebla, México. Es un gran reto para mí comenzar a estructurar mis conocimientos para adentrarme en este mundo tecnológico, pero eso no me detiene, porque soy firme con mis decisiones.
 
 
 ### Más información
