@@ -10,9 +10,9 @@ description: Un pequeño blog, en donde se habla de lo que sea.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 # avatar: https://avatars.githubusercontent.com/u/43713105?v=4
-avatar: https://markconfig.github.io/assets/img/ColorsMark.jpg
-favicon: https://markconfig.github.io/assets/logo/MarconfigMini.png
-logo: https://markconfig.github.io/blog/images/logo/LogotipoMarkConfig.png
+avatar: https://markconfig.github.io/images/markconfig.jpg
+favicon: https://markconfig.github.io/logo/markconfigIcon.svg
+logo: https://markconfig.github.io/logo/markconfig.svg
 #
 # Flags below are optional
 #
@@ -20,8 +20,8 @@ logo: https://markconfig.github.io/blog/images/logo/LogotipoMarkConfig.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: marcos.mrc.77@gmail.com
-  facebook: marcos.cruzreyes.9275
+  email: markconfig.dev@gmail.com
+  facebook: markconfig.dev
   flickr:
   github: markconfig
   instagram: markconfig
