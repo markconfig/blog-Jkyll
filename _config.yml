@@ -10,9 +10,9 @@ description: Un pequeño blog, en donde se habla de lo que sea.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 # avatar: https://avatars.githubusercontent.com/u/43713105?v=4
-avatar: https://markconfig.github.io/images/markconfig.jpg
+avatar: https://markconfig.github.io/images/avatar-picture.webp
 favicon: https://markconfig.github.io/logo/markconfigIcon.svg
-logo: https://markconfig.github.io/logo/markconfig.svg
+logo: https://markconfig.github.io/logo/og/markconfig.png
 #
 # Flags below are optional
 #
