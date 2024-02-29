@@ -4,7 +4,7 @@ title: El ser sin el detalle 🌻
 date: 2022-08-02 22:00:00
 tags: Detalle, Ser, Flor
 image:
- path: flor-amarilla.jfif
+ path: flor-amarilla.webp
  width: 1200
  height: 630
 ---
@@ -32,7 +32,7 @@ ruinas del ser silenciados
 ***¿Soy, Eres, Es, Somos, Son?***
 
 
-![Flor amarilla]({{ site.baseurl }}/images/post/flor-amarilla.jfif)
+![Flor amarilla]({{ site.baseurl }}/images/post/flor-amarilla.webp)
 
 
 

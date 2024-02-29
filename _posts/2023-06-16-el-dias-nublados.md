@@ -4,7 +4,7 @@ title: Días nublados ☁️
 date: 2023-06-16 04:00:00
 tags: días, nublados, nostalgia, cielo, amor, Sol, Amanecer, dolor
 image:
- path: diasnublados.jpg
+ path: diasnublados.webp
  width: 1200
  height: 630
 ---
@@ -97,6 +97,6 @@ Disfrutemos de... los días nublados
 
 ***
 
-![Cielo nublado de Tepejillo]({{ site.baseurl }}/images/post/diasnublados.jpg)
+![Cielo nublado de Tepejillo]({{ site.baseurl }}/images/post/diasnublados.webp)
 
 ***

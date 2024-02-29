@@ -4,7 +4,7 @@ title: El insomnio o la moral 🌃✨
 date: 2023-02-22 04:00:00
 tags: insomnio, moral, atardecer, cielo, amor, Sol, Amanecer, dolor
 image:
- path: insomnio-o-moral-im.jpg
+ path: insomnio-o-moral-im.webp
  width: 1200
  height: 630
 ---
@@ -33,7 +33,7 @@ Quiero ver y ciego no estoy
 
 ***
 
-![Cielo morado azul]({{ site.baseurl }}/images/post/insomnio-o-moral-im.jpg)
+![Cielo morado azul]({{ site.baseurl }}/images/post/insomnio-o-moral-im.webp)
 
 ***
 
